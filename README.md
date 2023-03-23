@@ -1,2 +1,1 @@
-# excel-challenge
-Module 1 Challenge
+# excel-challenge-Module 1 Challenge
